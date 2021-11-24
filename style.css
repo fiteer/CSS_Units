@@ -1,0 +1,79 @@
+
+
+.cont{
+    width:500px;
+    height:600px;
+    background-color: chocolate;
+}
+.px{
+    width:500px;
+    background-color: rgb(100, 92, 205);
+    height:30px;
+}
+.percent{
+    width:70%;
+background-color: green;
+    height:5%;
+
+}
+.vw{
+    background-color: lightblue;
+    height:30px;
+    width:20vw;
+    
+}
+.vh{
+    background-color:lightseagreen;
+    height:30px;
+    width:20vh;
+ 
+}
+.vmin{
+    background-color:rgb(61, 178, 32);
+    height:30px;
+    width:20vmin;
+ 
+}
+.vmax{
+    background-color:rgb(53, 109, 230);
+    height:30px;
+    width:20vmax;
+    
+}
+
+
+
+
+.d_fnt{
+
+    font-size:20px;
+    width:300px;
+}
+
+
+p-px {
+    font-size:30px;
+    color:green;
+   }
+   .p-em{
+        
+        background-color: blueviolet;
+       font-size:2em;border:1em  solid red;
+
+       
+
+   }
+   .p-rem{
+   
+    background-color: orange;
+    font-size: 2rem;
+}
+.p-ch{
+    width: 3ch;
+    background-color: pink;
+
+}
+.p-ex{
+    width: 3ex;
+    background-color: plum;
+}
